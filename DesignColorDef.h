@@ -1,0 +1,48 @@
+#if _MSC_VER > 1000
+#pragma once
+#endif // _MSC_VER > 1000
+
+//dialog use color define DesignColorDef.h
+
+////dialog fore & back, static fore & back
+//blue type
+#define USERDLG_BLUE_FORE RGB(0, 75, 126)
+#define USERDLG_BLUE_BACK RGB(227, 231, 237)
+#define USERBUT_BLUE_BACK RGB(42, 113, 168)
+#define USERLST_BLUE_BACK RGB(233, 240, 247)
+#define USERLST_BLUE_HEAD RGB(202, 224, 248)
+
+//pink type
+#define USERDLG_PINK_FORE RGB(98, 0, 68)
+#define USERDLG_PINK_BACK RGB(242, 233, 243)
+#define USERBUT_PINK_BACK RGB(166, 125, 160)
+#define USERLST_PINK_BACK RGB(244, 233, 247)
+#define USERLST_PINK_HEAD RGB(230, 188, 216)
+
+//green type
+#define USERDLG_GREEN_FORE RGB(0, 98, 55)
+#define USERDLG_GREEN_BACK RGB(235, 238, 225)
+#define USERBUT_GREEN_BACK RGB(63, 146, 136)
+#define USERLST_GREEN_BACK RGB(241, 247, 233)
+#define USERLST_GREEN_HEAD RGB(204, 230, 191)
+
+//yellow type
+#define USERDLG_YELLOW_FORE RGB(98, 69, 0)
+#define USERDLG_YELLOW_BACK RGB(245, 239, 224)
+#define USERBUT_YELLOW_BACK RGB(158, 140, 72)
+#define USERLST_YELLOW_BACK RGB(247, 243, 233)
+#define USERLST_YELLOW_HEAD RGB(158, 140, 72)
+
+// MDIClient BackColor
+#define BK_COLOR_1				RGB(127, 138, 101)
+#define BK_COLOR_2				RGB( 92, 114, 146)
+#define BK_COLOR_4				RGB(144,  95, 127)
+#define BK_COLOR_3				RGB(155, 117,  98)
+#define BK_COLOR_5				RGB(121, 121, 121)
+
+// MDIClient Menu BackColor
+#define BK_MENUCOLOR_1			RGB(187, 198, 161)
+#define BK_MENUCOLOR_2			RGB(185, 197, 214)
+#define BK_MENUCOLOR_3			RGB(230, 210, 178)
+#define BK_MENUCOLOR_4			RGB(209, 185, 195)
+#define BK_MENUCOLOR_5			RGB(199, 199, 199)
